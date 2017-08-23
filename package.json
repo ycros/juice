@@ -28,7 +28,7 @@
     "deep-extend": "^0.5.0",
     "mensch": "^0.3.3",
     "slick": "1.12.2",
-    "web-resource-inliner": "^4.1.0"
+    "web-resource-inliner": "git+https://github.com/ycros/web-resource-inliner.git#1cadbd921a00b5459a358892d0c99a81749580a8"
   },
   "devDependencies": {
     "batch": "0.5.3",
